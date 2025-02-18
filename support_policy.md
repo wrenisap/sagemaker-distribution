@@ -113,32 +113,6 @@ The tables below list SageMaker Distribution Image versions that are no longer s
 | 0.9.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.9-cpu | May 3rd, 2024 |
 | 0.8.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.8-cpu | April 9th, 2024 |
 | 0.7.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.7-cpu | April 5th, 2024 |
-| Image Version | ECR Image URI | End of Support Date |
-| :---: | :---: | :---: |
-| 1.9.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.9-cpu | Jan 15th, 2025 |
-| 1.8.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.8-cpu | Dec 31st, 2024 |
-| 1.7.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.7-cpu | Dec 15th, 2024 |
-| 1.6.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.6-cpu | Dec 15th, 2024 |
-| 1.5.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.5-cpu | Oct 31st 2024 |
-| 1.4.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.4-cpu | Oct 31st 2024 |
-| 1.3.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.3-cpu | June 28th, 2024 |
-| 1.2.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.2-cpu | June 28th, 2024 |
-| 1.1.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.1-cpu | May 2nd, 2024 |
-| 1.0.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.0-cpu | April 23rd, 2024 |
-| 0.13.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.13-cpu | Dec 31st, 2024 |
-| 0.12.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.12-cpu | Sept 1st, 2024 |
-| 0.11.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.11-cpu | July 3rd, 2024 |
-| 0.10.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.10-cpu | June 6th, 2024 |
-| 0.9.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.9-cpu | May 3rd, 2024 |
-| 0.8.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.8-cpu | April 9th, 2024 |
-| 0.7.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.7-cpu | April 5th, 2024 |
-| Image Version | ECR Image URI | End of Support Date |
-| :---: | :---: | :---: |
-| 1.5.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.5-gpu | Nov 1, 2024 |
-| 1.4.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.4-gpu | Nov 1, 2024 |
-| 1.3.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.3-gpu | Oct 18, 2024 |
-| 1.2.x | public.ecr.aws/sagemaker/sagemaker-distribution:1.2-gpu | Oct 18, 2024 |
-| 0.12.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.12-gpu | Sep 1, 2024 |
 
 ## Frequently Asked Questions
 
