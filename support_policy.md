@@ -70,7 +70,7 @@ The tables below list SageMaker Distribution Image versions that are no longer s
 | 0.10.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.10-cpu | June 6th, 2024 |
 | 0.9.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.9-cpu | May 3rd, 2024 |
 | 0.8.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.8-cpu | April 9th, 2024 |
-| 0.7.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.7-cpu | April 5th, 2024 |
+| 0.7.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.7-cpu | April 5th, 2023 |
 
 ### GPU Images
 
@@ -87,7 +87,7 @@ The tables below list SageMaker Distribution Image versions that are no longer s
 | 0.10.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.10-gpu | June 6th, 2024 |
 | 0.9.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.9-gpu | May 3rd, 2024 |
 | 0.8.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.8-gpu | April 9th, 2024 |
-| 0.7.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.7-gpu | April 5th, 2024 |
+| 0.7.x | public.ecr.aws/sagemaker/sagemaker-distribution:0.7-gpu | April 5th, 2023 |
 
 ## Frequently Asked Questions
 
